@@ -1,2 +1,2 @@
 # lemur-facelift
-Temporary home for the static mockups for the LMAR archive web sites.
+Temporary home for the static mockups for the LMAR archive web sites. https://lemurfacelift.azurewebsites.net
